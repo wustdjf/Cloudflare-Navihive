@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
-            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
+            "database_name": "wifi-nav-db",
+            "database_id": "b2665521-a633-4e99-82c0-eb707cd19597"
         }
     ],
     "vars": {
